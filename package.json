@@ -1,0 +1,13 @@
+{
+  "name": "yarn-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/asvny/yarn-workspace.git",
+  "author": "Annamalai <annamalai.saro@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "a",
+    "b"
+  ]
+}
